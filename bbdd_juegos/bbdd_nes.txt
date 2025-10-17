@@ -1,0 +1,13 @@
+BBDD JUEGOS NES - TOP 10 CLÁSICOS
+
+ID|TITULO|DESARROLLADOR|GENERO|AÑO_LANZAMIENTO
+01|Super Mario Bros. 3|Nintendo|Plataformas|1988
+02|The Legend of Zelda|Nintendo|Acción-Aventura|1986
+03|Mega Man 2|Capcom|Acción-Plataformas|1988
+04|Metroid|Nintendo|Acción-Aventura|1986
+05|Castlevania|Konami|Acción-Plataformas|1986
+06|Mike Tyson's Punch-Out!!|Nintendo|Deportes (Boxeo)|1987
+07|Contra|Konami|Acción|1987
+08|Final Fantasy|Square|JRPG|1987
+09|Super Mario Bros.|Nintendo|Plataformas|1985
+10|Duck Hunt|Nintendo|Disparos (Light Gun)|1984

@@ -1,0 +1,13 @@
+BBDD JUEGOS SEGA MEGA DRIVE - TOP 10 CLÁSICOS
+
+ID|TITULO|DESARROLLADOR|GENERO|AÑO_LANZAMIENTO
+01|Sonic the Hedgehog 2|Sega|Plataformas|1992
+02|Streets of Rage 2|Sega|Beat 'em up|1992
+03|Gunstar Heroes|Treasure|Run and Gun|1993
+04|Golden Axe|Sega|Beat 'em up|1989
+05|Shining Force II|Sega|RPG Táctico|1993
+06|Castlevania: The New Generation|Konami|Acción-Plataformas|1994
+07|Phantasy Star IV|Sega|JRPG|1993
+08|Contra: Hard Corps|Konami|Run and Gun|1994
+09|Comix Zone|Sega|Beat 'em up / Acción|1995
+10|Thunder Force IV|Technosoft|Shoot 'em up|1992
